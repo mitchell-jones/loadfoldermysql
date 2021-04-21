@@ -9,6 +9,8 @@ You must create the target database before running the script.
 Excel
 - xlsx
 - xlsb (binary excel files)
+
+
 Seperated Text Files
 - Comma-seperated (csv)
 - Pipe Delimited
